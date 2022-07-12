@@ -2,8 +2,8 @@
 This is the course project for Software Engineering (CS29006) under Prof. Sourangshu Bhattacharya and Prof. Abir Das.
 
 There are two major actors in the system:
-Admin: Creates accounts and manages inventory.
-Customer: Searches, rents and loans furniture.
+>**Admin**: Creates accounts and manages inventory.
+>**Customer**: Searches, rents and loans furniture.
 
 # Presentation
 More details regarding the project about implementation, testing, motivation, etc. can be found in this presentation.
