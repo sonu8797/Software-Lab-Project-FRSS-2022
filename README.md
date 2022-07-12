@@ -6,7 +6,8 @@ There are two major actors in the system:
 >**Customer**: Searches, rents and loans furniture.
 
 # Presentation
-More details regarding the project about implementation, testing, motivation, etc. can be found in presentation.pptx.
+More details regarding the project about implementation, testing, motivation, etc. can be found in presentation given below.
+>[https://github.com/sonu8797/Software-Lab-Project-FRSS-2022/blob/main/Presentation.pptx]
 
 # REquirement
 For running this application we will need:
