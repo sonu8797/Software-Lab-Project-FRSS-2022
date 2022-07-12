@@ -6,7 +6,7 @@ There are two major actors in the system:
 >**Customer**: Searches, rents and loans furniture.
 
 # Presentation
-More details regarding the project about implementation, testing, motivation, etc. can be found in this presentation.
+More details regarding the project about implementation, testing, motivation, etc. can be found in presentation.pptx.
 
 # REquirement
 For running this application we will need:
